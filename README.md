@@ -2,7 +2,6 @@
 
 - サイトのステータスをチェックして200以外ならSlackに通知します。
 - AWS Lambdaでの稼働を想定しています。
-- 設定など詳細はこちらの[ブログ](http://www.yamamanx.com/http_status_check/)に書きます。
 
 1. Githubからコードをダウンロードして展開します。
 1. 同じフォルダにrequestsをインストールします。
